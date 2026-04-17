@@ -1,1 +1,4 @@
-
+/* 强制加宽主页和文章的文本显示区域 */
+.prose, .max-w-prose, .article-style {
+    max-width: 1000px !important; 
+}
