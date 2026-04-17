@@ -15,10 +15,7 @@ sections:
       # 这里会去读取你个人的资料文件
       username: admin
       text: ''
-      # 简历下载按钮设置
-      button:
-        text: 下载简历 (Download CV)
-        url: uploads/resume.pdf
+
       headings:
         about: '关于我'
         education: '教育背景'
