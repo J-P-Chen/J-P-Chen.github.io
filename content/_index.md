@@ -14,7 +14,6 @@ sections:
       title: 'Jiaping Chen'
       subtitle: 'Ph.D. Researcher'
       text: |-
-        
        🏢 **Affiliation:** National Institute of Natural Hazards, Ministry of Emergency Management
 
        💻 **Major:** Electronic Science and Technology
