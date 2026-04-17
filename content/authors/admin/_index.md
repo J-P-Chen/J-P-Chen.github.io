@@ -6,7 +6,7 @@ title: 陈嘉平 (Jiaping Chen)
 role: 博士
 organizations:
   - name: 应急管理部国家自然灾害防治研究院
-    url: 'http://www.ninp.ac.cn/'
+    url: "http://www.ninp.ac.cn/"
 
 # 这里的格式必须严格对齐
 interests:
