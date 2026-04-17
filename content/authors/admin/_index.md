@@ -1,4 +1,6 @@
 ---
+superuser: true
+
 # 姓名必须在 title 后面，且冒号后有空格
 title: 陈嘉平 (Jiaping Chen)
 role: 博士
