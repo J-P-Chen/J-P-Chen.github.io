@@ -12,11 +12,10 @@ sections:
   - block: markdown
     content:
       title: 'Jiaping Chen'
-      title: 'Ph.D. Researcher'
+      subtitle: 'Ph.D. Researcher'
       text: |-
         **Affiliation:** National Institute of Natural Hazards, Ministry of Emergency Management
 
-    text: |-
         **Major:** Electronic Science and Technology
 
         I am a researcher specializing in emergency rescue technologies and equipment. My work primarily focuses on 3D point cloud processing, robust SLAM algorithms, and artificial intelligence in complex environments.
