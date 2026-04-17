@@ -11,9 +11,11 @@ sections:
   # 1. 个人基础信息与简介 (直接替代原先会报错的 resume-biography 模块)
   - block: markdown
     content:
-      title: 'Ph.D. Researcher'
+      title: 'Jiaping Chen'
       subtitle: 'Ph.D. Researcher'
       text: |-
+       🎓 **Ph.D. Researcher**
+    
        🏢 **Affiliation:** National Institute of Natural Hazards, Ministry of Emergency Management
 
        💻 **Major:** Electronic Science and Technology
@@ -23,16 +25,6 @@ sections:
       background:
         gradient_mesh:
           enable: false
-
-  # 2. 教育背景 (直接以列表形式展示)
-  - block: markdown
-    content:
-      title: '🎓 Education'
-      text: |-
-        * **Ph.D. in Electronic Science and Technology** *Beijing University of Technology*
-
-    design:
-      columns: '1'
 
   # 3. 科学研究方向
   - block: markdown
