@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Jiaping Chen'
 summary: ''
 date: 2026-01-01
 type: landing
@@ -11,7 +11,7 @@ sections:
   # 1. 个人基础信息与简介 (直接替代原先会报错的 resume-biography 模块)
   - block: markdown
     content:
-      title: 'Jiaping Chen'
+      title: 'Ph.D. Researcher'
       subtitle: 'Ph.D. Researcher'
       text: |-
        🏢 **Affiliation:** National Institute of Natural Hazards, Ministry of Emergency Management
