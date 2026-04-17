@@ -14,6 +14,12 @@ sections:
       title: 'Jiaping Chen'
       subtitle: 'Ph.D. Researcher'
       text: |-
+        <style>
+          /* 强制突破模板默认的排版宽度限制 */
+          .prose { max-width: 1000px !important; }
+          .article-style { max-width: 1000px !important; }
+        </style>
+        
        🏢 **Affiliation:** National Institute of Natural Hazards, Ministry of Emergency Management
 
        💻 **Major:** Electronic Science and Technology
