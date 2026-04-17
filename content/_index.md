@@ -8,58 +8,63 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
+  # 1. 个人基础信息与简介 (直接替代原先会报错的 resume-biography 模块)
+  - block: markdown
     content:
-      # 确认这里只写 admin，对应 authors 下的文件夹名
-      username: admin
-      text: ''
-      headings:
-        about: '关于我'
-        education: '教育背景'
-        interests: '研究方向'
+      title: 'Jiaping Chen'
+      subtitle: 'Ph.D. Researcher'
+      text: |-
+        **Affiliation:** National Institute of Natural Hazards, Ministry of Emergency Management
+        **Major:** Electronic Science and Technology
+
+        I am a researcher specializing in emergency rescue technologies and equipment. My work primarily focuses on 3D point cloud processing, robust SLAM algorithms, and artificial intelligence in complex environments.
     design:
+      columns: '1'
       background:
         gradient_mesh:
           enable: false
-      name:
-        size: md
-      avatar:
-        size: medium
-        shape: circle
 
+  # 2. 教育背景 (直接以列表形式展示)
   - block: markdown
     content:
-      title: '📚 科学研究 (My Research)'
-      subtitle: ''
+      title: '🎓 Education'
       text: |-
-        我的主要研究方向集中在：
-        * **应急救援技术研究**
-        * **3D LiDAR SLAM 感知算法**
-        * **点云信息处理**
-        * **人工智能技术**
+        * **Ph.D. in Electronic Science and Technology**
+          *Beijing University of Technology*
+
     design:
       columns: '1'
 
-  - block: collection
-    id: papers
+  # 3. 科学研究方向
+  - block: markdown
     content:
-      title: 代表性论文 (Featured Publications)
-      filters:
-        folders:
-          - publication
-        featured_only: true
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        My main research interests are focused on:
+        * **Emergency Rescue Technology**
+        * **3D LiDAR SLAM Perception Algorithms**
+        * **Point Cloud Information Processing**
+        * **Artificial Intelligence Technology**
     design:
-      view: article-grid
-      columns: 2
+      columns: '1'
 
-  - block: collection
+  # 4. 发表论文 (彻底弃用自动关联，直接硬编码列出你提供的文章，隐去作者列表)
+  - block: markdown
     content:
-      title: 全部论文 (Recent Publications)
-      text: ''
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+      title: '📝 Publications'
+      text: |-
+        * **Small but mighty: A Lightweight Feature Enhancement Strategy for LiDAR Odometry in Challenging Environment**
+          *Remote Sensing*, 2025, 17(15), 2656.
+          
+        * **An Intelligent Measurement Method and System for Vehicle Passing Angles**
+          *Applied Sciences-Basel*, 2023, 13(11), 6677.
+          
+        * **Deep Spatial-Frequency Fusion for Loop Closure Descriptor Construction**
+          *Measurement Science and Technology*.
+
+        * **An Efficient Network for 3D Point Cloud Moving Object Detection in Autonomous Driving Environments**
+          *Intelligent Service Robotics*.
     design:
-      view: citation
+      columns: '1'
 ---
