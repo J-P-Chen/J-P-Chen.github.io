@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2022-10-24
+date: 2026
 type: landing
 
 design:
@@ -35,9 +35,7 @@ sections:
       title: '📚 科学研究 (My Research)'
       subtitle: ''
       text: |-
-        我的主要研究方向集中在**应急救援技术装备物资研究**与 **3D LiDAR SLAM** 感知算法。
-
-        面对复杂多变的灾害场景，传统的定位与建图方法往往面临多维退化的挑战。我致力于通过引入轻量级特征增强策略、深度空频融合机制以及高效的动态目标检测算法，提升装备在极端环境下的感知鲁棒性与泛化能力。
+        我的主要研究方向集中在**应急救援技术研究**; **3D LiDAR SLAM** 感知算法; **点云信息处理**; **人工智能**技术。
     design:
       columns: '1'
 
