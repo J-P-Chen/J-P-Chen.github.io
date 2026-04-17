@@ -14,11 +14,10 @@ sections:
       title: 'Jiaping Chen'
       subtitle: 'Ph.D. Researcher'
       text: |-
-        **Affiliation:** National Institute of Natural Hazards, Ministry of Emergency Management
+       🏢 **Affiliation:** National Institute of Natural Hazards, Ministry of Emergency Management
 
-        **Major:** Electronic Science and Technology
+       💻 **Major:** Electronic Science and Technology
 
-        I am a researcher specializing in emergency rescue technologies and equipment. My work primarily focuses on 3D point cloud processing, robust SLAM algorithms, and artificial intelligence in complex environments.
     design:
       columns: '1'
       background:
@@ -54,17 +53,13 @@ sections:
     content:
       title: '📝 Publications'
       text: |-
-        * **Small but mighty: A Lightweight Feature Enhancement Strategy for LiDAR Odometry in Challenging Environment**
-          *Remote Sensing*, 2025, 17(15), 2656.
-          
-        * **An Intelligent Measurement Method and System for Vehicle Passing Angles**
-          *Applied Sciences-Basel*, 2023, 13(11), 6677.
-          
-        * **Deep Spatial-Frequency Fusion for Loop Closure Descriptor Construction**
-          *Measurement Science and Technology*.
+        * **Small but mighty: A Lightweight Feature Enhancement Strategy for LiDAR Odometry in Challenging Environment**. *Remote Sensing*.
 
-        * **An Efficient Network for 3D Point Cloud Moving Object Detection in Autonomous Driving Environments**
-          *Intelligent Service Robotics*.
+        * **An Intelligent Measurement Method and System for Vehicle Passing Angles**. *Applied Sciences-Basel*.
+          
+        * **Deep Spatial-Frequency Fusion for Loop Closure Descriptor Construction**. *Measurement Science and Technology*.
+
+        * **An Efficient Network for 3D Point Cloud Moving Object Detection in Autonomous Driving Environments**. *Intelligent Service Robotics*.
     design:
       columns: '1'
 ---
