@@ -15,6 +15,7 @@ sections:
       subtitle: 'Ph.D. Researcher'
       text: |-
         **Affiliation:** National Institute of Natural Hazards, Ministry of Emergency Management
+    
         **Major:** Electronic Science and Technology
 
         I am a researcher specializing in emergency rescue technologies and equipment. My work primarily focuses on 3D point cloud processing, robust SLAM algorithms, and artificial intelligence in complex environments.
@@ -29,8 +30,7 @@ sections:
     content:
       title: '🎓 Education'
       text: |-
-        * **Ph.D. in Electronic Science and Technology**
-          *Beijing University of Technology*
+        * **Ph.D. in Electronic Science and Technology** *Beijing University of Technology*
 
     design:
       columns: '1'
