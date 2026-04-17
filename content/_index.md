@@ -13,7 +13,7 @@ sections:
   - block: resume-biography-3
     content:
       # 这里会去读取你个人的资料文件
-      username: content/authors/admin
+      username: admin
       text: ''
 
       headings:
