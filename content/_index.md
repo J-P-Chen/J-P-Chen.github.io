@@ -12,7 +12,7 @@ sections:
   - block: markdown
     content:
       title: 'Jiaping Chen'
-      subtitle: 'Ph.D. Researcher'
+             'Ph.D. Researcher'
       text: |-
        🏢 **Affiliation:** National Institute of Natural Hazards, Ministry of Emergency Management
 
