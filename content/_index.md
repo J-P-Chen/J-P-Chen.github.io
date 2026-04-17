@@ -45,13 +45,13 @@ sections:
     content:
       title: '📝 Publications'
       text: |-
-        * **Small but mighty: A Lightweight Feature Enhancement Strategy for LiDAR Odometry in Challenging Environment**. *Remote Sensing*.
+        * **Small but mighty: A Lightweight Feature Enhancement Strategy for LiDAR Odometry in Challenging Environment**[J]. *Remote Sensing*.
 
-        * **An Intelligent Measurement Method and System for Vehicle Passing Angles**. *Applied Sciences-Basel*.
+        * **An Intelligent Measurement Method and System for Vehicle Passing Angles**[J]. *Applied Sciences-Basel*.
           
-        * **Deep Spatial-Frequency Fusion for Loop Closure Descriptor Construction**. *Measurement Science and Technology*.
+        * **Deep Spatial-Frequency Fusion for Loop Closure Descriptor Construction**[J]. *Measurement Science and Technology*.
 
-        * **An Efficient Network for 3D Point Cloud Moving Object Detection in Autonomous Driving Environments**. *Intelligent Service Robotics*.
+        * **An Efficient Network for 3D Point Cloud Moving Object Detection in Autonomous Driving Environments**[J]. *Intelligent Service Robotics*.
     design:
       columns: '1'
 ---
